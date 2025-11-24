@@ -25,7 +25,7 @@ Every day I publish a short article covering topics such as:
 - Dashboards & visualizations  
 - Business intelligence  
 - Real-world data stories  
-- How companies use data (Netflix, TikTok, football, supermarkets, etc.)
+- How Big companies use data
 
 All articles are written in **simple English** with real examples, so beginners can follow easily.
 
