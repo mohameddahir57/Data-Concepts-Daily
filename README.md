@@ -12,7 +12,7 @@ even without technical experience.
 
 ---
 
-## 📅 What You Will Find Here
+## What You Will Find Here
 
 Every day I publish a short article covering topics such as:
 
@@ -31,7 +31,7 @@ All articles are written in **simple English** with real examples, so beginners 
 
 ---
 
-## 🎯 Purpose of This Repository
+## Purpose of This Repository
 
 - To build a strong foundation in data concepts  
 - To practice explaining technical ideas in simple language  
@@ -43,5 +43,5 @@ This repository is my personal learning notebook and knowledge base.
 
 ---
 
-## 🗂 Repository Structure
+## Repository Structure
 
