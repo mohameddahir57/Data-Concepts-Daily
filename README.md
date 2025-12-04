@@ -26,6 +26,12 @@ Every day I publish a short article covering topics such as:
 - Business intelligence  
 - Real-world data stories  
 - How Big companies use data
+- Data Jobs Explained
+- Introduction to Data Ethics & Privacy
+- Data Pipelines
+- What Is Machine Learning?
+- APIs & How Data Moves Between Apps
+- Data Quality
 
 All articles are written in **simple English** with real examples, so beginners can follow easily.
 
