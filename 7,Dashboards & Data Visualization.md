@@ -5,7 +5,7 @@ Dashboards are **interactive pages** that show multiple visualizations in one pl
 
 Visualization helps people understand information quickly — even without reading a long report.
 
----
+
 ![image alt](Image/Dashboards&DataVisualization.jpg)
 
 # What Is Data Visualization?
@@ -27,7 +27,7 @@ It answers questions like:
 
 Humans understand visuals faster than text.
 
----
+
 
 # What Is a Dashboard?
 
@@ -42,7 +42,7 @@ It helps decision-makers see:
 
 Good dashboards are simple, clean, and focused.
 
----
+
 
 # 🛠 Tools Used for Dashboards
 
@@ -68,7 +68,7 @@ The most common tools:
 
 * Can create dashboards using charts, pivot tables, slicers
 
----
+
 
 # Common Dashboard Visuals
 
@@ -101,7 +101,7 @@ Example:
 * Total Customers
 * Profit
 
----
+
 
 # What Makes a Good Dashboard?
 
@@ -115,7 +115,6 @@ A good dashboard should be:
 
 Avoid adding too many colors or too many elements.
 
----
 
 # Real Example: Sales Dashboard (Simple Logic)
 
@@ -134,7 +133,7 @@ This helps the company answer:
 * Which products to restock?
 * Which months need promotions?
 
----
+
 
 # How Data Visualization Helps Companies
 
@@ -148,7 +147,7 @@ Visualization helps companies:
 
 It's one of the most important skills in data analysis.
 
----
+
 
 # Summary
 
@@ -162,9 +161,10 @@ It's one of the most important skills in data analysis.
 
 Visualization is where your hard work becomes easy to understand.
 
----
+
 
 ## End of Day 7
 
 **Day 8 → Business Intelligence**
+
 
