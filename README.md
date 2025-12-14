@@ -32,6 +32,13 @@ Every day I publish a short article covering topics such as:
 - What Is Machine Learning?
 - APIs & How Data Moves Between Apps
 - Data Quality
+- Data Governance
+- Metadata
+- Data Lakes vs Data Warehouses
+- ETL vs ELT
+- Structured vs Unstructured Data
+- Semi-Structured Data
+- Data Modeling
 
 All articles are written in **simple English** with real examples, so beginners can follow easily.
 
