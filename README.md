@@ -10,8 +10,6 @@ This repository documents my journey from **beginner to data analyst**, starting
 Each day, I explore one important data concept and explain it in a way that anyone can understand,
 even without technical experience.
 
----
-
 ## What You Will Find Here
 
 Every day I publish a short article covering topics such as:
@@ -49,8 +47,6 @@ Every day I publish a short article covering topics such as:
 
 All articles are written in **simple English** with real examples, so beginners can follow easily.
 
----
-
 ## Purpose of This Repository
 
 - To build a strong foundation in data concepts  
@@ -60,8 +56,6 @@ All articles are written in **simple English** with real examples, so beginners 
 - To strengthen my GitHub profile with consistent, meaningful content  
 
 This repository is my personal learning notebook and knowledge base.
-
----
 
 ## Repository Structure
 
