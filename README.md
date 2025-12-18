@@ -43,6 +43,9 @@ Every day I publish a short article covering topics such as:
 - How Dashboards Are Built End-to-End
 - KPIs & Metrics
 - Data Storytelling
+- A/B Testing & Experimentation
+- Predictive vs Descriptive vs Prescriptive Analytics
+- Building a Complete Data Analyst Portfolio
 
 All articles are written in **simple English** with real examples, so beginners can follow easily.
 
