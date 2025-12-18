@@ -39,6 +39,10 @@ Every day I publish a short article covering topics such as:
 - Structured vs Unstructured Data
 - Semi-Structured Data
 - Data Modeling
+- Star Schema vs Snowflake Schema
+- How Dashboards Are Built End-to-End
+- KPIs & Metrics
+- Data Storytelling
 
 All articles are written in **simple English** with real examples, so beginners can follow easily.
 
